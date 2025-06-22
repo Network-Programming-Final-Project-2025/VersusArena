@@ -7,7 +7,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://drive.google.com/file/d/1fw2EAV73iPlGKo0fmffcJKojFZ47Eofv/view?usp=sharing">Download all the files</a>
+      <a href="https://drive.google.com/file/d/1LoOOLdEYxUhWsLoTjpkCunIWKeWbs9Pn/view?usp=sharing">Download all the files</a>
     </td>
     <td align="center">
       <a href="https://drive.google.com/file/d/1ZDXWV-ljoSxp4M7QOol_mbleNE8LitLh/view?usp=sharing">Download the Game Here!</a>
