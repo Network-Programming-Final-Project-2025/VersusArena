@@ -31,6 +31,7 @@ The first player can Create a Match and share the Join Code on the bottom of the
 
 Move: WASD  
 Shoot: Left Click  
+Reload: R  
 Chat: Enter  
 
 <table align="center">
