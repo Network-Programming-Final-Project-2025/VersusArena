@@ -7,10 +7,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://drive.google.com/file/d/1LoOOLdEYxUhWsLoTjpkCunIWKeWbs9Pn/view?usp=sharing">Download all the files</a>
+      <a href="https://drive.google.com/file/d/1dWNTCSyqvmUg1dBDdmWjYwpJTBCMuzAq/view?usp=sharing">Download all the files</a>
     </td>
     <td align="center">
-      <a href="https://drive.google.com/file/d/1ZDXWV-ljoSxp4M7QOol_mbleNE8LitLh/view?usp=sharing">Download the Game Here!</a>
+      <a href="https://drive.google.com/file/d/1FTWeDO6rdLyL50i-b6woaBImN8CBsFeN/view?usp=sharing">Download the Game Here!</a>
     </td>
   </tr>
 </table>
