@@ -21,8 +21,13 @@ We only uploaded from the Assets folder because everything was too large for the
 So we put the entire files and the playable game in Google Drive.  
 
 For the explanation of the scripts/code please refer to the written report.  
-</p>
+</p>  
 
+### Tutorial:  
+
+Move: WASD  
+Shoot: Left Click  
+Chat: Enter  
 
 <table align="center">
   <tr>
