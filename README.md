@@ -23,7 +23,11 @@ So we put the entire files and the playable game in Google Drive.
 For the explanation of the scripts/code please refer to the written report.  
 </p>  
 
-### Tutorial:  
+## How To Play  
+
+The first player can Create a Match and share the Join Code on the bottom of the screen. The second player inputs the code and click on the Join Match button.  
+
+### Controls  
 
 Move: WASD  
 Shoot: Left Click  
