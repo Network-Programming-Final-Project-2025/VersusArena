@@ -18,7 +18,7 @@
 
 <p align="justify">
 We only uploaded from the Assets folder because everything was too large for the GitHub Repository (2.18 GB) and it's also because where all the Scripts, Objects, Audio, etc. located (all the important stuff).
-So we put the entire files and the playable game in Google Drive.  
+Because of this, we put the entire files and the playable game in Google Drive.  
 
 For the explanation of the scripts/code please refer to the written report.  
 </p>  
